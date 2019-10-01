@@ -9,8 +9,13 @@ HOW TO CONTRIBUTE?
 3) Make a PR
 
 Other ways to contribute-
+
 a)Make the Readme better
+
 b)Add a github.io site for the repository
+
 c)Inform others about this to others
+
 d)Add tutorials on verilog and combinational/sequential circuits
+
 e)Give a brief explanation of various circuits. For example, add a readme about 4_bit_ripple_carry_adder which has its working and a diagram of it.
