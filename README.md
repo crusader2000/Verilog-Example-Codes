@@ -1,4 +1,4 @@
-# Verilog-Example-Codess
+# Verilog-Example-Codes
 This is a list with various combinational and sequential circuits written in Verilog. 
 
 PLEASE ONLY PROVIDE PROPERLY WRITTEN CODES AND THEIR TESTBENCH FILES.
@@ -19,3 +19,5 @@ c)Inform others about this to others
 d)Add tutorials on verilog and combinational/sequential circuits
 
 e)Give a brief explanation of various circuits. For example, add a readme about 4_bit_ripple_carry_adder which has its working and a diagram of it.
+
+f)Please redo the file structure
